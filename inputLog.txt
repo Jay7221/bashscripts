@@ -1,0 +1,19 @@
+total 68
+drwxrwxr-x  2 jay jay 4096 Nov 15 23:05 .
+drwxr-xr-x 33 jay jay 4096 Nov 15 23:05 ..
+-rwxrwxr-x  1 jay jay  198 Nov 15 10:42 breakContinue.sh
+-rwxrwxr-x  1 jay jay  199 Nov 15 10:54 cmdArgs.sh
+-rw-rw-r--  1 jay jay  139 Nov 14 23:11 commands.txt
+-rwxrwxr-x  1 jay jay  328 Nov 14 23:17 ConditionalStatements.sh
+-rw-rw-r--  1 jay jay  128 Nov 15 23:04 errorLog.txt
+-rw-rw-r--  1 jay jay   54 Nov 14 23:03 file2.txt
+-rwxrwxr-x  1 jay jay   18 Nov 14 23:03 file.txt
+-rwxrwxr-x  1 jay jay  183 Nov 15 10:36 forLoop.sh
+-rwxrwxr-x  1 jay jay   37 Nov 14 17:35 hello.sh
+-rwxrwxr-x  1 jay jay  488 Nov 14 23:03 helloTofile.sh
+-rwxrwxr-x  1 jay jay   84 Nov 14 23:05 hereDocDelimiter.sh
+-rw-rw-r--  1 jay jay    0 Nov 15 23:05 inputLog.txt
+-rwxrwxr-x  1 jay jay   73 Nov 15 10:57 input.sh
+-rwxrwxr-x  1 jay jay   54 Nov 15 23:05 trial.sh
+-rwxrwxr-x  1 jay jay   95 Nov 15 10:30 untilLoop.sh
+-rwxrwxr-x  1 jay jay   97 Nov 15 10:27 whileLoop.sh

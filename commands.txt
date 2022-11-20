@@ -1,0 +1,11 @@
+format for if else statements
+
+if (( condition <=, >=, == ))
+then
+	//something
+elif (( condition ))
+then
+	//something
+else
+	//something
+fi
